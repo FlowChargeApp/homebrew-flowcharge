@@ -5,19 +5,19 @@ class Flowcharge < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/FlowChargeApp/flowcharge/releases/download/v0.4.0/flowcharge-0.4.0-darwin-arm64"
-      sha256 "eb5bb048fafbb369713491a569b627fb089a7bbc94e86ac72468b8890c693e05"
+      url "https://github.com/FlowChargeApp/flowcharge/releases/download/v0.5.0/flowcharge-0.5.0-darwin-arm64"
+      sha256 "700173322f0f6797804b70155bd2eec1d578e77a72bdad3b4047eb749dc3b966"
     end
     on_intel do
-      url "https://github.com/FlowChargeApp/flowcharge/releases/download/v0.4.0/flowcharge-0.4.0-darwin-x64"
-      sha256 "08ddca44c5f39cebfc2a14c265041c07dc899e42342621c87593369c6a30fbda"
+      url "https://github.com/FlowChargeApp/flowcharge/releases/download/v0.5.0/flowcharge-0.5.0-darwin-x64"
+      sha256 "fa9ead9c7fe885a122cee3e755515b0eec3f1a800eb06d7529a4f297f04707b3"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/FlowChargeApp/flowcharge/releases/download/v0.4.0/flowcharge-0.4.0-linux-x64"
-      sha256 "009a6a53af35469513221358755a7a4ac85e9d57fd70410d59a865c3e406194d"
+      url "https://github.com/FlowChargeApp/flowcharge/releases/download/v0.5.0/flowcharge-0.5.0-linux-x64"
+      sha256 "5b85586fdbe8ea0cc8eb0f5580d959bd5abd2fb3d9a7ef56f9518dc5c08a17f7"
     end
   end
 
